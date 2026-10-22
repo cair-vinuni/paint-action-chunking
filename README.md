@@ -122,7 +122,7 @@ Evaluated on **12 Kinetix simulation environments** and **6 real-world tasks** a
 
 PAINT matches or exceeds RTC (gradient-based steering) on success rate and prefix consistency across GR00T-N1.5 and π₀ backbones, while never modifying the policy's velocity field.
 
-Side-by-side videos of PAINT, RTC, and the baseline on each real-world task are on the [project page](docs/index.html) (sources in [docs/videos/](docs/videos/)). The paper is at [docs/paper/PAINT.pdf](docs/paper/PAINT.pdf).
+Side-by-side videos of PAINT, RTC, and the baseline on each real-world task are on the [project page](https://cair-vinuni.github.io/paint-action-chunking). The paper is at [docs/paper/PAINT.pdf](docs/paper/PAINT.pdf).
 
 ## Citation
 
